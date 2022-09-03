@@ -1,3 +1,3 @@
 # MY PORTFOLIO
 
-This my Personal portfolio in making.
+This is my Personal portfolio in making.
